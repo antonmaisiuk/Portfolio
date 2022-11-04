@@ -99,7 +99,7 @@ body{
 .header__home-photo{
     width: 250px;
     height: 250px;
-    background-image: url('/img/MyImageHeader.jpg');
+    background-image: url('../img/MyImageHeader.jpg');
     background-position: center center;
     background-size: 100%;
     border-radius: 50%;
@@ -157,7 +157,7 @@ body{
     height: 420px;
     /* transform: rotate(-7.17deg); */
     border-radius: 20px;
-    background: #fff url('/img/MyImageSection.jpg') center center no-repeat;
+    background: #fff url('../img/MyImageSection.jpg') center center no-repeat;
     background-size: cover;
     /* z-index: 99 ; */
 }
